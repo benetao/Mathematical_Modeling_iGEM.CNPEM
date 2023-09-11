@@ -27,7 +27,7 @@
   <h3 align="center">Mathematical Modeling iGEM.CNPEM</h3>
 
   <p align="center">
-    Wellcome to the repository from the iGEM.CNPEM Design League team, focused on the Mathematical Modeling of the project!   
+    Welcome to the repository from the iGEM.CNPEM Design League team, focused on the Mathematical Modeling of the project!   
   </p>
 </div>
 

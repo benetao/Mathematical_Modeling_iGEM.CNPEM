@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="![neural](https://user-images.githubusercontent.com/106626661/225796535-51b41213-8397-435d-ab94-dc64551a2da1.gif)">
-    <img src="https://github.com/benetao/Mathematical_Modeling_iGEM.CNPEM/assets/106626661/15d1d54a-55cc-47ab-a964-6136c1b76edc" alt="Logo" width="220" height="220">
+    <img src="https://github.com/benetao/Mathematical_Modeling_iGEM.CNPEM/assets/106626661/7dfa2730-e4a1-4e2f-a7a9-8c4e7cded984" alt="Logo" width="220" height="220">
   </a>
 
   <h3 align="center">Mathematical Modeling iGEM.CNPEM</h3>
@@ -53,7 +53,7 @@
         <li><a href="#contato">Contact</a></li>
       </ul>
     </li>
-    <li><a href="#acknowledgments">Acknolegments</a></li>
+    <li><a href="#acknowledgments">Acknoledgments</a></li>
   </ol>
 </details>
 
@@ -62,28 +62,14 @@
 <!-- Sobre a Disciplina e o Projeto -->
 ## About the Repository <a name="sobre"></a>
 
-Na disciplina de Mathematical Modeling iGEM.CNPEM, ministrada pelo professor Amauri de Paula, nós- alunos- fomos desafiados a resolver um problema envolvendo um sistema composto por uma usina elétrica a vapor operando a partir da combustão de uma mistura líquida de combustíveis. Para resolvê-lo, devemos passar por várias etapas e desafios, que engloba temas centrais da termodinâmica, como:
+Na
 * `Energia interna` 
 * `Entalpia`
-* `Energia livre`
-* `Transições de fase`
-* `Misturas e soluções`
-* `Reações químicas`
-* `Quantidades parciais molares`
-* `Compressibilidade e gás real`
-* `Ciclos termodinâmicos`
-
+  
 
 ### The Project <a name= "projeto"></a>
 
-Ao longo do desenvolvimento do problema representado na imagem abaixo, nós selecionamos todas as variáveis envolvidas a partir de considerações físico-químicas, determinamos os estados termodinâmicos do sistema, calculamos todos os parâmetros e variáveis numéricas do problema utilizando Python, estabelecemos um fluxograma (pipeline) que incorpora todos os cálculos necessários e que é adaptável à escolha de outros líquidos combustíveis, justificando sempre todas as escolhas e soluções encontradas.
-
-<div align="center">
-  <a href="![neural](https://user-images.githubusercontent.com/106626661/225796535-51b41213-8397-435d-ab94-dc64551a2da1.gif)">
-    <img src="https://user-images.githubusercontent.com/106626661/226015817-8e68aac6-a052-4365-b51f-db0617168af1.png" alt="Logo" width="750" height="440">
-  </a>
-</div>
-
+aaaa
 ### Tolls <a name="ferramentas"></a>
 
 As ferramentas utilizadas para desenvolver o projeto dessa disciplina foram, principalmente, as plataformas Github e Jupyter Notebook, em que escrevemos os códigos usando a  linguagem Pyhton.
@@ -102,28 +88,6 @@ As ferramentas utilizadas para desenvolver o projeto dessa disciplina foram, pri
 <!-- Progresso -->
 ## Progress <a name="progresso"></a>
 
-- [x] Desafio 1: Definir a mistura combustível
-    - [x] Definição da Mistura
-    - [x] Definição da Entalpia da Mistura
-    - [x] Definição do Diagrama de Fases da Mistura
-    
-- [ ] Desafio 2: Determinar parâmetros termodinâmicos envolvidos na combustão
-    - [x] Determinação do volume da mistura de líquidos
-    - [x] Determinação da separação da mistura
-    - [ ] Determinação da não-idealidade das misturas
-    - [ ] Determinação da temperatura mínima de ebulição da mistura
-    - [ ] Determinação de potenciais termodinâmicos da reação de cobustão
-    
-- [ ] Desafio 3: Fazer balanço estequiométrico e energético até etapa de aquecimento do boiler
-    - [ ] Cálculo da quantidade de energia transferida para a caldeira
-    - [ ] Consideração da quantidade de reagentes usados na combustão
-    - [ ] Consideração das reações envolvidas na combustão
-
-- [ ] Desafio 4: Modelar ciclo termodinâmico que alimenta o gerador
-    - [ ] Definição dos estados do ciclo termodinâmico envolvidos na geração de eletricidade
-    - [ ] Consideração do diagrama de fase da água
-    - [ ] Consideração do diagrama do ciclo de Rankine
-    
 - [ ] Desafio 5: Determinar estado dos subprodutos da combustão
     - [ ] Cálculo dos estados dos subprodutos gerados
     - [ ] Consideração da liquefação da água ao final do processo
@@ -134,7 +98,7 @@ As ferramentas utilizadas para desenvolver o projeto dessa disciplina foram, pri
 
 Entre nas pastas [Desafio 1](https://github.com/benetao/Mathematical_Modeling_iGEM.CNPEM/tree/main/Desafio%201), [Desafio 2](https://github.com/benetao/Mathematical_Modeling_iGEM.CNPEM/tree/main/Desafio%202), [Desafio 3](https://github.com/benetao/Mathematical_Modeling_iGEM.CNPEM/tree/main/Desafio%203), [Desafio 4](https://github.com/benetao/Mathematical_Modeling_iGEM.CNPEM/tree/main/Desafio%204), [Desafio 5](https://github.com/benetao/Mathematical_Modeling_iGEM.CNPEM/tree/main/Desafio%205) e [Desafio 6 (Relatório Final)](https://github.com/benetao/Mathematical_Modeling_iGEM.CNPEM/tree/main/Desafio%206%20(Relat%C3%B3rio%20Final)) para acessar os notebooks e arquivos dos respectivos desafios com suas resoluções. Se quiser vê-los no seu próprio computador, baixe a pasta inteira para conseguir rodar o código com as imagens.
 <!-- Sobre mim -->
-## Sobre nós
+## About us
 
 Quem são os alunos por trás desse projeto de Mathematical Modeling iGEM.CNPEM? Pois bem, permita-nos nos apresentar:
 
@@ -145,7 +109,7 @@ Quem são os alunos por trás desse projeto de Mathematical Modeling iGEM.CNPEM?
 - 👩‍💻 This repository aims to store all the data and code developed in the mathematical modeling branch of the iGEM.CNPEM team.
 
 <!-- CONTATO -->
-### Contatos <a name="contato"></a>
+### Contacts <a name="contato"></a>
  
 <div>
   <a href="https://instagram.com/isa.beneti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -157,7 +121,7 @@ Quem são os alunos por trás desse projeto de Mathematical Modeling iGEM.CNPEM?
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Agradecimentos <a name="acknowledgments"></a>
+## Acknoledgments <a name="acknowledgments"></a>
 
 Sem a ajuda dos professores e técnicos da Ilum, nós não teriamos conseguido chegar até onde chegamos! Por isso, agradecemos às seguintes pessoas que contribuíram para este projeto:
 

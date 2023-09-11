@@ -21,13 +21,13 @@
 
 <div align="center">
   <a href="![neural](https://user-images.githubusercontent.com/106626661/225796535-51b41213-8397-435d-ab94-dc64551a2da1.gif)">
-    <img src="https://github.com/benetao/Mathematical_Modeling_iGEM.CNPEM/assets/106626661/dce11a81-a275-4ca2-a3b0-59a33d6adf6e" alt="Logo" width="220" height="220">
+    <img src="https://github.com/benetao/Mathematical_Modeling_iGEM.CNPEM/assets/106626661/15d1d54a-55cc-47ab-a964-6136c1b76edc" alt="Logo" width="220" height="220">
   </a>
 
   <h3 align="center">Mathematical Modeling iGEM.CNPEM</h3>
 
   <p align="center">
-    Wellcome to the Mathematical Modeling iGEM.CNPEM Repository!   
+    Wellcome to the repository from the iGEM.CNPEM Design League team, focused on the Mathematical Modeling of the project!   
   </p>
 </div>
 
@@ -138,11 +138,11 @@ Entre nas pastas [Desafio 1](https://github.com/benetao/Mathematical_Modeling_iG
 
 Quem são os alunos por trás desse projeto de Mathematical Modeling iGEM.CNPEM? Pois bem, permita-nos nos apresentar:
 
-- 👋 Somos Gabriel Pereira e Isabela Beneti
-- 📕 Estamos no terceiro semestre do Bacharelado em Ciência e Tecnologia da Ilum Escola de Ciência
-- 👨‍🔬 A Ilum é uma iniciativa da instituição social CNPEM (Centro Nacional de Pesquisa em Energia e Materiais)
-- 🔥 No curso, temos uma grade curricular bem interdisciplinar, que inclui a matéria de Mathematical Modeling iGEM.CNPEM
-- 🚗 Nosso objetivo, na disciplina, é entender melhor processos termodinâmicos e suas aplicações na vida real
+- 👋 We are Gabriel Pereira and Isabela Beneti
+- 📕 We are students from the The Brazilian Center for Research in Energy and Materials (CNPEM)
+- 👨‍🔬 CNPEM hosts 4 national laboratories, including SIRIUS (Brazilian particle accelerator) and LNBR (Brazilian National Laboratory for BioRenewables).
+- 💖 CNPEM has its own Design League team, iGEM.CNPEM, which this year created the B.A.R.B.I.E. project
+- 👩‍💻 This repository aims to store all the data and code developed in the mathematical modeling branch of the iGEM.CNPEM team.
 
 <!-- CONTATO -->
 ### Contatos <a name="contato"></a>

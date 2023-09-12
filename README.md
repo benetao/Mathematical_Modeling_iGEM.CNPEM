@@ -42,9 +42,6 @@
       <ul>
         <li><a href="#projeto">The Project</a></li>
        </ul>
-      <ul>
-        <li><a href="#ferramentas">Tools</a></li>
-      </ul>
     </li>
     <li><a href="#progresso">Progress</a></li>
     <li>
@@ -71,10 +68,10 @@
 Concomitantly, we propose the construction of a sensor to detect the presence of MPs in water samples.
 
 >  This sensor uses impedance spectroscopy and machine learning techniques that allow the individual characterization of particles based on their electrical properties, simultaneously identifying the material and size of the particles.
-
- <img src="https://github.com/benetao/Mathematical_Modeling_iGEM.CNPEM/assets/106626661/d25495d5-85bc-4896-a0ee-5852e9276fb3)" alt="Logo" width="220" height="220">
+<div align="center">
+ <img src="complex.png" alt="Logo" width="280" height="180">
   </a>
-  
+</div>
 
 ### The Repository <a name= "projeto"></a>
 
@@ -83,20 +80,6 @@ In this repository, you will find data and code related to the metabolic modelin
 * `Encapsulin` 
 * `Plastic Binding Protein (PBP)`
 * `SPYs`
-
-
-### Tolls <a name="ferramentas"></a>
-
-The tools used to develop this part of the project were primarily the GitHub and Jupyter Notebook platforms, where we wrote the code using the Python language.
-</div>
-<div align="center">
-<img align="center" alt="Rafa-Python" height="60" width="60" src= https://user-images.githubusercontent.com/106626661/225802391-d24ac038-78b1-4b2d-8720-f5f9fb4dac9a.png>
- <img align="center" alt="Rafa-Python" height="70" width="70" src= https://user-images.githubusercontent.com/106626661/225802823-3edf4493-8191-433f-9152-7e73b941aadb.png>
- <img align="center" alt="Rafa-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
-</div>
-
-
 
 
 

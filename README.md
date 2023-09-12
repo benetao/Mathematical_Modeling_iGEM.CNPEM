@@ -27,7 +27,7 @@
   <h3 align="center">Mathematical Modeling iGEM.CNPEM</h3>
 
   <p align="center">
-    Welcome to the repository from the iGEM.CNPEM Design League team, focused on the Mathematical Modeling of the project!   
+    Welcome to the repository from the iGEM.CNPEM Design League team, focused on the Mathematical Modeling of the B.A.R.B.I.E. project!   
   </p>
 </div>
 
@@ -60,17 +60,31 @@
 
 
 <!-- Sobre a Disciplina e o Projeto -->
-## About the Repository <a name="sobre"></a>
+## About the Project <a name="sobre"></a>
 
-Na
+  > Bioengineered Approach for Removal of microplastics through Bioremediation and Innovative Electromagnetics — or `B.A.R.B.I.E.` — proposes an innovative treatment stage in Water Plants (WTPs).
+>  Our approach is implemented after classical filtration with a bio-based process specifically designed to detect and capture Microplastics (MPs) present in the water.
 
+> The ongoing strategy combines magnetic nanoparticles (MNPs) with biological molecules, such as Plastic Binding Proteins (PBP). Thus, the BaCBM2 protein (Bacillus anthraci Carbohydrate Binding Molecule, family 2), which binds to environmentally relevant plastics, moonlights as the key component of B.A.R.B.I.E.
+
+> The proposed strategy includes adding BaCBM2 proteins linked to MNPs, to the treated water. The MNPs, when directed by controlled external magnetic fields, will allow the removal of the nanoparticle-BaCBM2-MP complex.
+Concomitantly, we propose the construction of a sensor to detect the presence of MPs in water samples.
+
+>  This sensor uses impedance spectroscopy and machine learning techniques that allow the individual characterization of particles based on their electrical properties, simultaneously identifying the material and size of the particles.
+
+ <img src="https://github.com/benetao/Mathematical_Modeling_iGEM.CNPEM/assets/106626661/d25495d5-85bc-4896-a0ee-5852e9276fb3)" alt="Logo" width="220" height="220">
+  </a>
   
 
-### The Project <a name= "projeto"></a>
+### The Repository <a name= "projeto"></a>
+
+In this repository, you will find data and code related to the metabolic modeling of our chassis, aiming to optimize the production and purification of the proteins used in our complex, including:
 
 * `Encapsulin` 
 * `Plastic Binding Protein (PBP)`
 * `SPYs`
+
+
 ### Tolls <a name="ferramentas"></a>
 
 The tools used to develop this part of the project were primarily the GitHub and Jupyter Notebook platforms, where we wrote the code using the Python language.

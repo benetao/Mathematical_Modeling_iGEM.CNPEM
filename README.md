@@ -63,16 +63,17 @@
 ## About the Repository <a name="sobre"></a>
 
 Na
-* `Energia interna` 
-* `Entalpia`
+
   
 
 ### The Project <a name= "projeto"></a>
 
-aaaa
+* `Encapsulin` 
+* `Plastic Binding Protein (PBP)`
+* `SPYs`
 ### Tolls <a name="ferramentas"></a>
 
-As ferramentas utilizadas para desenvolver o projeto dessa disciplina foram, principalmente, as plataformas Github e Jupyter Notebook, em que escrevemos os códigos usando a  linguagem Pyhton.
+The tools used to develop this part of the project were primarily the GitHub and Jupyter Notebook platforms, where we wrote the code using the Python language.
 </div>
 <div align="center">
 <img align="center" alt="Rafa-Python" height="60" width="60" src= https://user-images.githubusercontent.com/106626661/225802391-d24ac038-78b1-4b2d-8720-f5f9fb4dac9a.png>
@@ -88,19 +89,18 @@ As ferramentas utilizadas para desenvolver o projeto dessa disciplina foram, pri
 <!-- Progresso -->
 ## Progress <a name="progresso"></a>
 
-- [ ] Desafio 5: Determinar estado dos subprodutos da combustão
-    - [ ] Cálculo dos estados dos subprodutos gerados
-    - [ ] Consideração da liquefação da água ao final do processo
-    - [ ] Consideração da atividade dos íons na água liquefeita
+- [ ] _E. coli_ growth modeling
+    - [ ] Monod's equation
+    - [ ] ...
+- [ ] Protein production modeling
+    - [ ] Hills' equation
+    - [ ] ...
    
-- [ ] Desafio 6: Elaborar relatório final
    
-
-Entre nas pastas [Desafio 1](https://github.com/benetao/Mathematical_Modeling_iGEM.CNPEM/tree/main/Desafio%201), [Desafio 2](https://github.com/benetao/Mathematical_Modeling_iGEM.CNPEM/tree/main/Desafio%202), [Desafio 3](https://github.com/benetao/Mathematical_Modeling_iGEM.CNPEM/tree/main/Desafio%203), [Desafio 4](https://github.com/benetao/Mathematical_Modeling_iGEM.CNPEM/tree/main/Desafio%204), [Desafio 5](https://github.com/benetao/Mathematical_Modeling_iGEM.CNPEM/tree/main/Desafio%205) e [Desafio 6 (Relatório Final)](https://github.com/benetao/Mathematical_Modeling_iGEM.CNPEM/tree/main/Desafio%206%20(Relat%C3%B3rio%20Final)) para acessar os notebooks e arquivos dos respectivos desafios com suas resoluções. Se quiser vê-los no seu próprio computador, baixe a pasta inteira para conseguir rodar o código com as imagens.
 <!-- Sobre mim -->
 ## About us
 
-Quem são os alunos por trás desse projeto de Mathematical Modeling iGEM.CNPEM? Pois bem, permita-nos nos apresentar:
+Who are the students behind this Mathematical Modeling iGEM.CNPEM project? Well, allow us to introduce ourselves:
 
 - 👋 We are Gabriel Pereira and Isabela Beneti
 - 📕 We are students from the The Brazilian Center for Research in Energy and Materials (CNPEM)
@@ -122,24 +122,23 @@ Quem são os alunos por trás desse projeto de Mathematical Modeling iGEM.CNPEM?
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknoledgments <a name="acknowledgments"></a>
-
-Sem a ajuda dos professores e técnicos da Ilum, nós não teriamos conseguido chegar até onde chegamos! Por isso, agradecemos às seguintes pessoas que contribuíram para este projeto:
+Without the help of our mentors, we wouldn't have been able to reach where we are now! Therefore, we thank the following individuals who contributed to this project:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://user-images.githubusercontent.com/106626661/226685894-701a7c74-396c-4a82-9920-7488b3095fb7.png" width="100px;" alt="Foto do Prof"/><br>
+        <img src="https://user-images.githubusercontent.com/106626661/228413860-7b1afd13-f1df-4d1b-9d14-00e339b7fb17.png" width="100px;" alt="Foto do Prof"/><br>
         <sub>
-          <b>Amauri de Paula (Professor)</b>
+          <b>Vinícius Wasques (Professor)</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://user-images.githubusercontent.com/106626661/226698669-e1b3521b-5f37-4d02-85a4-8a71cfcd694d.png" width="100px;" alt="Foto do Pepe"/><br>
+        <img src="https://github.com/benetao/Mathematical_Modeling_iGEM.CNPEM/assets/106626661/c9fdeafa-f179-40a1-ae3b-8b80b63eb0c2" width="100px;" alt="Foto do Pepe"/><br>
         <sub>
-          <b>Felipe Crasto (Professor)</b>
+          <b>João Eduardo Levandoski (Mentor)</b>
         </sub>
       </a>
     </td>

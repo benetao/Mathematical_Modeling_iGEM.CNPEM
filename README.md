@@ -80,18 +80,6 @@ In this repository, you will find data and code related to the metabolic modelin
 * `Encapsulin` 
 * `Plastic Binding Protein (PBP)`
 * `SPYs`
-
-
-
-<!-- Progresso -->
-## Progress <a name="progresso"></a>
-
-- [ ] _E. coli_ growth modeling
-    - [ ] Monod's equation
-    - [ ] ...
-- [ ] Protein production modeling
-    - [ ] Hills' equation
-    - [ ] ...
    
    
 <!-- Sobre mim -->

@@ -80,15 +80,16 @@ In this repository, you will find data and code related to the metabolic modelin
 * `Encapsulin` 
 * `Plastic Binding Protein (PBP)`
 * `SPYs`
-   
+
+For this, at this point, we made a model to describe the cells growth, and estimate the proteins productions. The model was presented in the notebook "cells_modelling.ipynb".
    
 <!-- Sobre mim -->
 ## About us
 
 Who are the students behind this Mathematical Modeling iGEM.CNPEM project? Well, allow us to introduce ourselves:
 
-- 👋 We are Gabriel Pereira and Isabela Beneti
-- 📕 We are students from the The Brazilian Center for Research in Energy and Materials (CNPEM)
+- 👋 We are Gabriel Pereira, Isabela Beneti, Pedro Zanineli and Gustavo Beneti.
+- 📕 We are students from the The Brazilian Center for Research in Energy and Materials (CNPEM).
 - 👨‍🔬 CNPEM hosts 4 national laboratories, including SIRIUS (Brazilian particle accelerator) and LNBR (Brazilian National Laboratory for BioRenewables).
 - 💖 CNPEM has its own Design League team, iGEM.CNPEM, which this year created the B.A.R.B.I.E. project
 - 👩‍💻 This repository aims to store all the data and code developed in the mathematical modeling branch of the iGEM.CNPEM team.
